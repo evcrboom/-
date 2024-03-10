@@ -25,7 +25,7 @@ function App() {
         setTasks([
           ...tasks,
           {
-            id: tasks.length + 1,
+            id: Date.now(),
             title: title,
           },
         ]);
