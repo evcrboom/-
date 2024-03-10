@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Tasks management App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+สร้างด้วย React สามารถเข้าชมเว็ปไซต์ได้ที่ https://evcrboom.github.io/Tasks-management-App/
+
+## Function พืนฐาน
+
+เพิ่มข้อความ, ลบข้อความ, แก้ไขข้อความ, Dark mode
+นอกจากนี้มีการเก็บข้อความไว้ใน localStorage ทำให้เมื่อ refresh เว็ปเพจ จะยังคงข้อความที่เคยเพิ่มไว้
+
+![image](https://github.com/evcrboom/Tasks-management-App/assets/156238778/f10d52c7-fc06-4564-9a5d-39c0dc695566)
+
+![image](https://github.com/evcrboom/Tasks-management-App/assets/156238778/15f51df8-7ade-4322-afca-8cb69016fb3f)
+
 
 ## Available Scripts
 
